@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](./screenshot.jpg)
+![screenshot](./screenshot.png)
 
 ### The story of the project
 
@@ -58,7 +58,9 @@ Your wisdom?
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
+- Javascript
 
 ## Features
 
@@ -76,5 +78,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [Coming Soon]()
-- GitHub [@bderrickmatthew](https://{github.com/bderrickmatthew})
-- Twitter [@bderrickmatthew](https://{twitter.com/bderrickmatthew})
+- GitHub [@bderrickmatthew](https://github.com/bderrickmatthew})
+- Twitter [@bderrickmatthew](https://twitter.com/bderrickmatthew})
