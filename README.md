@@ -78,5 +78,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [Coming Soon]()
-- GitHub [@bderrickmatthew](https://github.com/bderrickmatthew})
-- Twitter [@bderrickmatthew](https://twitter.com/bderrickmatthew})
+- GitHub [@bderrickmatthew](https://github.com/bderrickmatthew)
+- Twitter [@bderrickmatthew](https://twitter.com/bderrickmatthew)
